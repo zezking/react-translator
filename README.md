@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a learning project to get a basic understanding of React App Development
 
-![Demo](./screenshots/translator.gif)
+![Demo](./screenshots/translator.mp4)
 
 ## Available Scripts
 
