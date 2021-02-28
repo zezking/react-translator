@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# This is a learning project do get a basic understanding of React App Development
+This is a learning project do get a basic understanding of React App Development
 
 ## Available Scripts
 
